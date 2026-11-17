@@ -3,7 +3,3 @@ test of restore to unstage file
 
 test stash
 djjfhjdjjj
-
-
-
-not revert the text is still here 
